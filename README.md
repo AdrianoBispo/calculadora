@@ -1,6 +1,5 @@
-# Calculadora Simples 
-
-Iniciada em 10/06/2022, mas que está sujeita a mudanças.
-
-- Este projeto básico teve uma maior participação minha no desenvolvimento da estrutura do HTML e CSS. 
-- Já na parte lógica com o JavaScript eu necessitei de ajuda através de tutoriais no YT.
+<h1>
+  Calculadora Simples 
+  <img align="left" src="https://user-images.githubusercontent.com/83666455/211348796-b37eaad2-0c0d-4466-87a0-5c57cb06ea30.png" />
+  
+</h1>
